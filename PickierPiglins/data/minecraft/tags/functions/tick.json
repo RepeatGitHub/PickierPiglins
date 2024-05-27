@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "pickierpiglins:zombified_piglin/tick",
+        "pickierpiglins:piglin/tick",
+        "pickierpiglins:tick"
+    ]
+}
